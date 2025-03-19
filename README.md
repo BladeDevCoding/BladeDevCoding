@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://www.bladedev.site" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-⚡%20-8A2BE2?style=for-the-badge&logoColor=white&background=0D1117"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-⚡%20Portfolio-8A2BE2?style=for-the-badge&logoColor=white&background=0D1117"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/c/blade-dev" target="_blank">
