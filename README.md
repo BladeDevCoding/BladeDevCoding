@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=3,24,36&height=350&section=header&text=Blade-Dev&fontSize=100&animation=scaleIn&fontColor=fff&stroke=8A2BE2&strokeWidth=3&desc=✦%20Master%20of%20Digital%20Craftsmanship%20✦&descSize=30&descAlignY=65)
+  ![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=4,24,36&height=350&section=header&text=Blade-Dev&fontSize=100&animation=scaleIn&fontColor=fff&stroke=8A2BE2&strokeWidth=3&desc=✦%20Master%20of%20Digital%20Craftsmanship%20✦&descSize=30&descAlignY=65)
 
 </div>
 
